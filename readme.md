@@ -34,7 +34,7 @@ python3 test_sim.py --policy active --active_alpha 0.5 --is_outVideo True --max_
 python3 test_sim.py --policy random --is_outVideo True --max_epoch 30  # random 
 ```
 
-<div style="display: flex; justify-content: space-around; gap: 20px;">
+<!-- <div style="display: flex; justify-content: space-around; gap: 20px;">
   <video width="320" height="240" controls>
     <source src="./imgs/demo_random.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -43,7 +43,14 @@ python3 test_sim.py --policy random --is_outVideo True --max_epoch 30  # random
     <source src="./imgs/demo_active_0.5.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</div>
+</div> -->
+
+
+<p align="center">
+  <img src="./imgs/demo_random.gif" width="49%"/>
+  &nbsp;
+  <img src="./imgs/demo_active_0.5.gif" width="49%"/>
+</p>
 
 ****
 
