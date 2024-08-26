@@ -62,3 +62,19 @@ python evaluate.py
 
 ![res](./imgs/demo_results.png)
 
+## Cite as
+
+> Wu B, Liu Q. TactileAR: Active Tactile Pattern Reconstruction[C]//2024 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2024: 16104-16110.
+
+### Bibtex:
+```
+@inproceedings{wu2024tactilear,
+  title={TactileAR: Active Tactile Pattern Reconstruction},
+  author={Wu, Bing and Liu, Qian},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={16104--16110},
+  year={2024},
+  organization={IEEE}
+}
+```
+
